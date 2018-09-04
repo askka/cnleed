@@ -1,2 +1,1 @@
-# cnleed
 LEED in China
