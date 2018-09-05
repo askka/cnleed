@@ -15,7 +15,7 @@
        <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
        <div id="container" style="height: 100%"></div>
        <script type="text/javascript" src="https://www.echartsjs.com/gallery/vendors/echarts/echarts.min.js"></script>
-       <script type="text/javascript" src="https://www.echartsjs.com/gallery/vendors/echarts/echarts-gl.min.js"></script>
+       <script type="text/javascript" src="http://www.echartsjs.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script>
        <script type="text/javascript" src="https://www.echartsjs.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
        <script type="text/javascript" src="https://www.echartsjs.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
        <script type="text/javascript" src="https://www.echartsjs.com/gallery/vendors/echarts/map/js/china.j"></script>
@@ -384,81 +384,4 @@ var convertData = function (data) {
                          //   2005:2005年LEED认证项目数(未分认证等级)
                          //   ……
                          //   regofgeo: 按地理分区划分各省（东北、华北……）
-                         //   regofeco: 按经济概况划分各省（东部、中部、……、港澳台）
-                        dimension: ['state','2005','2006','2008','2009','2010','2011','2012','2013','2014','2015','2016','2017','2018','regofgeo','egofeco'],
-                        //source: []
-                        source: cnDataset
-                        }, 
-                        */
-                        // 初始数据
-                        series: [
-                            {
-                                name: '2005'+'年LEED认证项目数：',
-                                type: 'map',
-                                roam: false,
-                                map: 'china',
-                                itemStyle: {
-                                    emphasis:{label:{show:true,color:'#fff'}}
-                                },
-                                // 调整台湾的文本标签
-                                textFixed: {
-                                台湾: ['50%', '50%']
-                                },
-                                data: []
-                            }
-                        ],
-
-                    animationDurationUpdate: 1500,
-                    animationEasingUpdate: 'circularIn'
-                },
-                    options: []
-    };
-
-    myChart.showLoading();
-
-    $.get("cnleed.json", function (data) {
-        /*
-        将json文件导入，数据格式：
-        timeline：[2005,2006,……2017,2018]        //LEED统计年份数组
-        // 从2005-2018年，每年获认证的LEED项目数量数组
-        yearseries：[[{name:"北京",value:2}, …{name:"西藏",value:0}],
-                        ……
-                     [{name:"北京",value:216}, …{name:"西藏",value:0}]]
-        //从2005-2018年，累加的各省LEED项目数量数组
-        totalseries：[[{name:"北京",value:2}, …{name:"西藏",value:0}],
-                        ……
-                     [{name:"北京",value:216}, …{name:"西藏",value:0}]]    
-        */
-        // 解析json文本赋值给object
-        cnDataset = eval('('+ data +')');
-        // 调用完成后将loading动画停止
-        myChart.hideLoading();
-
-    // debugger
-    // 按年份将数据赋值给地图填色
-    for (var n = 0; n < cnDataset.timeline.length; n++) {
-            option.baseOption.timeline.data.push(cnDataset.timeline[n]);
-            option.options.push({
-                title: {
-                    show: true,
-                    'text': cnDataset.timeline[n]
-                },
-                series: {
-                    name: cnDataset.timeline[n] + '年LEED认证项目',
-                    type: 'map',
-                    map: 'china',
-                    data: cnDataset.totalseries[n],
-                    }
-            });
-        }
-
-        myChart.setOption(option);
-        });
-;
-if (option && typeof option === "object") {
-    myChart.setOption(option, true);
-}
-
-       </script>
-   </body>
-</html>
+                         //   regofeco: 按经济概况划分各省（东部、中部、……、港
