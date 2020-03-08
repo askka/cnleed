@@ -1,0 +1,196 @@
+COUNTRY,SCORE,PREVENT,DETECT,RESPOND,HEALTH,NORMS,RISK,UN REGIONS,WHO REGIONS,POPULATION SIZE,INCOME GROUP,WORLD BANK REGIONS,JEE,Alpha2,EchartsName,FlagFilename
+Afghanistan,32.3,23.5,44.8,23.6,21,56.3,23.3,Southern Asia ,EMRO,10-50m,Low income,South Asia,JEE completed and published,AF,阿富汗,af.png
+Albania,52.9,43.8,74.3,52.0,35.9,53.0,55.7,Europe,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE completed and published,AL,阿尔巴尼亚,al.png
+Algeria,23.6,25.7,12.0,19.6,13.1,29.1,51.4,Africa,AFRO,10-50m,Upper middle income,Middle East and North Africa,JEE not yet published/completed,DZ,阿尔及利亚,dz.png
+Andorra,30.5,27.9,14.2,30.5,9.2,32.4,83.5,Europe,EURO,<1m,High income,Europe and Central Asia,JEE not yet published/completed,AD,安道尔,ad.png
+Angola,25.2,24.0,17.9,21.7,10.9,41.4,42.2,Africa,AFRO,10-50m,Lower middle income,Sub-Saharan Africa,JEE not yet published/completed,AO,安哥拉,ao.png
+Antigua and Barbuda,29,17.8,19.1,21.7,7.4,55.1,65.2,Latin America and the Caribbea,AMRO,<1m,High income,Latin America & Carribean ,JEE not yet published/completed,AG,安提瓜和巴布达,ag.png
+Argentina,58.6,41.4,74.9,50.6,54.9,68.8,60.0,Latin America and the Caribbea,AMRO,10-50m,High income,Latin America & Carribean ,JEE not yet published/completed,AR,阿根廷,ar.png
+Armenia,50.2,56.7,60.8,55.5,25.7,50.1,50.4,Western Asia,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE completed and published,AM,亚美尼亚,am.png
+Australia,75.5,68.9,97.3,65.9,63.5,77.0,79.4,Oceania,WPRO ,10-50m,High income,East Asia and Pacific,JEE completed and published,AU,澳大利亚,au.png
+Austria,58.5,57.4,73.2,42.3,46.6,52.8,84.6,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,AT,奥地利,at.png
+Azerbaijan,34.2,30.8,45.0,25.5,17.9,36.2,54.2,Western Asia,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE not yet published/completed,AZ,阿塞拜疆,az.png
+Bahamas,30.6,24.7,21.8,30.9,7.9,46,61.4,Latin America and the Caribbea,AMRO,<1m,High income,Latin America & Carribean ,JEE not yet published/completed,BS,巴哈马,bs.png
+Bahrain,39.4,36.0,45.8,43.2,27.7,27.8,57.8,Western Asia,EMRO,1-10m ,High income,Middle East and North Africa,JEE completed and published,BH,巴林,bh.png
+Bangladesh,35.0,27.3,50.9,23.1,14.7,52.5,44.0,Southern Asia ,SEARO,100m+ ,Lower middle income,South Asia,JEE completed and published,BD,孟加拉国,bd.png
+Barbados,31.9,33.3,19.1,27.2,8.5,46,69.9,Latin America and the Caribbea,AMRO,<1m,High income,Latin America & Carribean ,JEE not yet published/completed,BB,巴巴多斯,bb.png
+Belarus,35.3,19.4,28.9,46.6,40.6,25.8,53,Europe,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE not yet published/completed,BY,白俄罗斯,by.png
+Belgium,61.0,63.5,62.5,47.3,60.5,59.7,78.2,Europe,EURO,10-50m,High income,Europe and Central Asia,JEE completed and published,BE,比利时,be.png
+Belize,31.8,30,30.4,25.5,9.7,49.3,53,Latin America and the Caribbea,AMRO,<1m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,BZ,伯利兹,bz.png
+Benin,28.8,16.5,24.2,34.1,5.6,53.6,42.8,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,BJ,贝宁,bj.png
+Bhutan,40.3,35.5,42.8,42,27.9,39.7,56.9,Southern Asia ,SEARO,<1m,Lower middle income,South Asia,JEE completed and published,BT,不丹,bt.png
+Bolivia,35.8,44,33.1,29.2,14.9,48.5,50.9,Latin America and the Caribbea,AMRO,10-50m,Lower middle income,Latin America & Carribean ,JEE not yet published/completed,BO,玻利维亚,bo.png
+Bosnia and Herzegovina,42.8,36.7,41.7,51.8,38.3,37.8,50.8,Europe,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE not yet published/completed,BA,波斯尼亚-黑塞哥维那,ba.png
+Botswana,31.1,22.0,28.2,23.9,13.3,46.3,62.4,Africa,AFRO,1-10m ,Upper middle income,Sub-Saharan Africa,JEE completed and published,BW,博茨瓦纳,bw.png
+Brazil,59.7,59.2,82.4,67.1,45.0,41.9,56.2,Latin America and the Caribbea,AMRO,100m+ ,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,BR,巴西,br.png
+Brunei,32.6,24.8,30.5,33.4,24.2,23.3,66.7,Southeastern Asia,WPRO ,<1m,High income,East Asia and Pacific,JEE not yet published/completed,BN,文莱,bn.png
+Bulgaria,45.6,37.6,53.3,21.7,41.0,61.5,66.3,Europe,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE not yet published/completed,BG,保加利亚,bg.png
+Burkina Faso,30.1,18.0,33.3,38.0,5.6,44.8,42.6,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,BF,布基纳法索,bf.png
+Burundi,22.8,25.1,11.4,28.4,8.9,37.6,28.3,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,BI,蒲隆地,bi.png
+Cabo Verde,29.3,27.9,9.3,32.7,16.1,33.9,67.4,Africa,AFRO,<1m,Lower middle income,Sub-Saharan Africa,JEE not yet published/completed,CV,佛得角,cv.png
+Cambodia,39.2,28.6,57.7,36.7,12.0,60.0,38.5,Southeastern Asia,WPRO ,10-50m,Lower middle income,East Asia and Pacific,JEE completed and published,KH,柬埔寨,kh.png
+Cameroon,34.4,28.2,35.6,29.5,21.4,59.9,33.6,Africa,AFRO,10-50m,Lower middle income,Sub-Saharan Africa,JEE completed and published,CM,喀麦隆,cm.png
+Canada,75.3,70.0,96.4,60.7,67.7,74.7,82.7,Northern America,AMRO,10-50m,High income,North America,JEE not yet published/completed,CA,加拿大,ca.png
+Central African Republic,27.3,18,17.7,46.6,12.8,44.2,23,Africa,AFRO,1-10m ,Low income,Sub-Saharan Africa,JEE completed and published,CF,中非共和国,cf.png
+Chad,28.8,23.2,36.5,34.5,6.6,46.2,23.7,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,TD,乍得,td.png
+Chile,58.3,56.2,72.7,60.2,39.3,51.5,70.1,Latin America and the Caribbea,AMRO,10-50m,High income,Latin America & Carribean ,JEE not yet published/completed,CL,智利,cl.png
+China,48.2,45.0,48.5,48.6,45.7,40.3,64.4,Eastern Asia,WPRO ,100m+ ,Upper middle income,East Asia and Pacific,JEE not yet published/completed,CN,china,cn.png
+Colombia,44.2,37.2,41.7,43.5,34.3,60.1,51.0,Latin America and the Caribbea,AMRO,10-50m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,CO,哥伦比亚,co.png
+Comoros,27.2,19.2,23.2,27.1,9.4,51.6,36.5,Africa,AFRO,<1m,Low income,Sub-Saharan Africa,JEE completed and published,KM,科摩罗,km.png
+Congo (Brazzaville),23.6,17.6,7.0,23.6,6.3,56.8,38.1,Africa,AFRO,1-10m ,Lower middle income,Sub-Saharan Africa,JEE not yet published/completed,CG,刚果-布拉柴维尔,cg.png
+Congo (Democratic Republic),26.5,24.0,25.1,31.3,11.8,45.9,20.1,Africa,AFRO,50-100m,Low income,Sub-Saharan Africa,JEE completed and published,CD,刚果金,cd.png
+Cook Islands,20.4,10.9,8.8,17.5,14.3,29.9,50.5,Oceania,WPRO ,<1m,High income,East Asia and Pacific,JEE not yet published/completed,CK,库克群岛,ck.png
+Costa Rica,45.1,44.2,56.0,36.6,24.8,43.1,71.7,Latin America and the Caribbea,AMRO,1-10m ,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,CR,哥斯达黎加,cr.png
+Côte d'Ivoire,35.5,27.3,44.5,29.7,17.1,53.6,42.7,Africa,AFRO,10-50m,Lower middle income,Sub-Saharan Africa,JEE completed and published,CI,科特迪瓦,ci.png
+Croatia,53.3,55.2,72.3,32.4,46.5,49.1,68.2,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,HR,克罗地亚,hr.png
+Cuba,35.2,41.4,10.5,25.9,37.4,49.8,57.8,Latin America and the Caribbea,AMRO,10-50m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,CU,古巴,cu.png
+Cyprus,43.0,46.4,44.9,33.9,21.9,49.1,69.6,Western Asia,EURO,<1m,High income,Europe and Central Asia,JEE not yet published/completed,CY,塞浦路斯,cy.png
+Czech Republic,52.0,51.1,50.7,46.6,37.4,58.9,74.0,Europe,EURO,10-50m,High income,Europe and Central Asia,JEE not yet published/completed,CZ,捷克,cz.png
+Denmark,70.4,72.9,86.0,58.4,63.8,62.6,80.3,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,DK,丹麦,dk.png
+Djibouti,23.2,16.3,17,23.2,9.3,36.3,42.7,Africa,EMRO,<1m,Lower middle income,Middle East and North Africa,JEE completed and published,DJ,吉布提,dj.png
+Dominica,24,11.2,10.7,20.9,8.5,49.3,54,Latin America and the Caribbea,AMRO,<1m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,DM,多米尼克,dm.png
+Dominican Republic,38.3,30.5,37.1,47.3,16.1,43.5,59.3,Latin America and the Caribbea,AMRO,10-50m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,DO,多米尼加共和国,do.png
+Ecuador,50.1,53.9,71.2,39.5,35.2,43.5,57.1,Latin America and the Caribbea,AMRO,10-50m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,EC,厄瓜多尔,ec.png
+Egypt,39.9,36.5,41.5,45.0,15.7,46.4,57.5,Africa,EMRO,50-100m,Lower middle income,Middle East and North Africa,JEE not yet published/completed,EG,埃及,eg.png
+El Salvador,44.2,22.1,73.9,42.1,25.2,50.5,48.0,Latin America and the Caribbea,AMRO,1-10m ,Lower middle income,Latin America & Carribean ,JEE not yet published/completed,SV,萨尔瓦多,sv.png
+Equatorial Guinea,16.2,1.9,4.4,17.6,5,33.5,43.6,Africa,AFRO,1-10m ,Upper middle income,Sub-Saharan Africa,JEE not yet published/completed,GQ,赤道几内亚,gq.png
+Eritrea,22.4,23.4,17.2,16,9.7,40,33.2,Africa,AFRO,1-10m ,Low income,Sub-Saharan Africa,JEE completed and published,ER,厄立特里亚,er.png
+Estonia,57.0,47.6,77.6,47.0,31.6,67.6,73.3,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,EE,爱沙尼亚,ee.png
+eSwatini (Swaziland),31.1,35.7,25.5,29.3,6.5,46.6,48.9,Africa,AFRO,1-10m ,Lower middle income,Sub-Saharan Africa,JEE completed and published,SZ,史瓦济兰,sz.png
+Ethiopia,40.6,36.8,33.7,44.7,29.0,65.8,33.6,Africa,AFRO,100m+ ,Low income,Sub-Saharan Africa,JEE completed and published,ET,埃塞俄比亚,et.png
+Fiji,25.7,24.6,16.4,28.3,7.5,27.4,59.1,Oceania,WPRO ,<1m,Upper middle income,East Asia and Pacific,JEE not yet published/completed,FJ,斐济,fj.png
+Finland,68.7,68.5,61.6,69.2,60.8,75.4,81.1,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE completed and published,FI,芬兰,fi.png
+France,68.2,71.2,75.3,62.9,60.9,58.6,83.0,Europe,EURO,50-100m,High income,Europe and Central Asia,JEE not yet published/completed,FR,法国,fr.png
+Gabon,20.0,10.8,6.1,20.6,11.2,36.5,42.8,Africa,AFRO,1-10m ,Upper middle income,Sub-Saharan Africa,JEE not yet published/completed,GA,加蓬,ga.png
+Gambia,34.2,22.0,36.9,34.2,23.5,44.2,47.3,Africa,AFRO,1-10m ,Low income,Sub-Saharan Africa,JEE completed and published,GM,冈比亚,gm.png
+Georgia,52.0,53.2,75.0,37.1,38.3,56.0,51.4,Western Asia,EURO,1-10m ,Lower middle income,Europe and Central Asia,JEE not yet published/completed,GE,格鲁吉亚,ge.png
+Germany,66.0,66.5,84.6,54.8,48.2,61.9,82.3,Europe,EURO,50-100m,High income,Europe and Central Asia,JEE not yet published/completed,DE,德国,de.png
+Ghana,35.5,32.2,40.5,31.5,23.4,38.0,51.0,Africa,AFRO,10-50m,Lower middle income,Sub-Saharan Africa,JEE completed and published,GH,加纳,gh.png
+Greece,53.8,54.2,78.4,44.0,37.6,49.1,58.2,Europe,EURO,10-50m,High income,Europe and Central Asia,JEE not yet published/completed,GR,希腊,gr.png
+Grenada,27.5,8.6,18.6,28.4,10.3,46.4,62.9,Latin America and the Caribbea,AMRO,<1m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,GD,格林纳达,gd.png
+Guatemala,32.7,21.2,50.0,25.0,11.4,42.2,49.1,Latin America and the Caribbea,AMRO,10-50m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,GT,危地马拉,gt.png
+Guinea,32.7,27.0,57.2,23.0,8.0,47.8,31.3,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,GN,几内亚,gn.png
+Guinea-Bissau,20,14,23.4,17.8,4.6,37.6,24.1,Africa,AFRO,1-10m ,Low income,Sub-Saharan Africa,JEE not yet published/completed,GW,几内亚比索,gw.png
+Guyana,31.7,27.9,20.3,36.2,12.3,49.3,50.5,Latin America and the Caribbea,AMRO,<1m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,GY,圭亚那,gy.png
+Haiti,31.5,31.5,48.3,21.1,10.6,48.4,28.9,Latin America and the Caribbea,AMRO,10-50m,Low income,Latin America & Carribean ,JEE not yet published/completed,HT,海地,ht.png
+Honduras,27.6,21.6,27.7,26.5,12.0,41.8,39.5,Latin America and the Caribbea,AMRO,1-10m ,Lower middle income,Latin America & Carribean ,JEE not yet published/completed,HN,洪都拉斯,hn.png
+Hungary,54.0,56.4,55.5,52.2,36.6,58.9,68.2,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,HU,匈牙利,hu.png
+Iceland,46.3,35.3,37.2,44.0,46.4,43.2,81.2,Europe,EURO,<1m,High income,Europe and Central Asia,JEE not yet published/completed,IS,冰岛,is.png
+India,46.5,34.9,47.4,52.4,42.7,47.7,54.4,Southern Asia ,SEARO,100m+ ,Lower middle income,South Asia,JEE not yet published/completed,IN,印度,in.png
+Indonesia,56.6,50.2,68.1,54.3,39.4,72.5,53.7,Southeastern Asia,SEARO,100m+ ,Lower middle income,East Asia and Pacific,JEE completed and published,ID,"印度尼西亚, 印尼",id.png
+Iran,37.7,44.7,37.7,33.7,34.6,28.7,50.3,Southern Asia ,EMRO,50-100m,Upper middle income,Middle East and North Africa,JEE not yet published/completed,IR,伊朗,ir.png
+Iraq,25.8,22.1,42.2,19.5,11.8,29.5,29.2,Western Asia,EMRO,10-50m,Upper middle income,Middle East and North Africa,JEE not yet published/completed,IQ,伊拉克,iq.png
+Ireland,59.0,63.9,78.0,45.1,40.2,52.8,77.4,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,IE,爱尔兰,ie.png
+Israel,47.3,44.0,52.4,39.9,42.2,41.5,68.8,Western Asia,EURO,1-10m ,High income,Middle East and North Africa,JEE not yet published/completed,IL,以色列,il.png
+Italy,56.2,47.5,78.5,47.5,36.8,61.9,65.5,Europe,EURO,50-100m,High income,Europe and Central Asia,JEE not yet published/completed,IT,意大利,it.png
+Jamaica,29.0,20.1,24.3,24.7,10.0,43.1,61.2,Latin America and the Caribbea,AMRO,1-10m ,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,JM,牙买加,jm.png
+Japan,59.8,49.3,70.1,53.6,46.6,70.0,71.7,Eastern Asia,WPRO ,100m+ ,High income,East Asia and Pacific,JEE completed and published,JP,日本,jp.png
+Jordan,42.1,31.8,42.9,47.8,27.8,48.6,55.8,Western Asia,EMRO,10-50m,Upper middle income,Middle East and North Africa,JEE completed and published,JO,约旦,jo.png
+Kazakhstan,40.7,58.8,28.2,26.6,28.0,52.8,59.5,Central Asia,EURO,10-50m,Upper middle income,Europe and Central Asia,JEE not yet published/completed,KZ,哈萨克斯坦,kz.png
+Kenya,47.1,45.9,68.6,37.1,20.7,67.1,40.7,Africa,AFRO,50-100m,Lower middle income,Sub-Saharan Africa,JEE completed and published,KE,肯尼亚,ke.png
+Kiribati,19.2,10.7,4.4,23.4,7.3,32.3,45,Oceania,WPRO ,<1m,Lower middle income,East Asia and Pacific,JEE not yet published/completed,KI,基里巴斯,ki.png
+Kuwait,46.1,40.9,47.5,50.2,36.5,42.2,61.5,Western Asia,EMRO,1-10m ,High income,Middle East and North Africa,JEE completed and published,KW,科威特,kw.png
+Kyrgyz Republic,49.3,29.7,64.7,49.9,29.8,64.8,56.1,Central Asia,EURO,1-10m ,Lower middle income,Europe and Central Asia,JEE completed and published,KG,吉尔吉斯斯坦,kg.png
+Laos,43.1,18.9,70.4,52.0,19.4,45.9,46.8,Southeastern Asia,WPRO ,1-10m ,Lower middle income,East Asia and Pacific,JEE completed and published,LA,老挝,la.png
+Latvia,62.9,56.0,97.3,54.7,47.3,51.1,67.2,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE completed and published,LV,拉脱维亚,lv.png
+Lebanon,43.1,27.3,62.0,47.9,23.8,49.3,45.5,Western Asia,EMRO,1-10m ,Upper middle income,Middle East and North Africa,JEE completed and published,LB,黎巴嫩,lb.png
+Lesotho,30.2,24.4,18.0,33.2,20.6,45.9,44.5,Africa,AFRO,1-10m ,Lower middle income,Sub-Saharan Africa,JEE completed and published,LS,莱索托,ls.png
+Liberia,35.1,14.3,29.1,40.5,19.9,71.5,37.4,Africa,AFRO,1-10m ,Low income,Sub-Saharan Africa,JEE completed and published,LR,利比里亚,lr.png
+Libya,25.7,23.2,36,18.9,9.1,31,39,Africa,EMRO,1-10m ,Upper middle income,Middle East and North Africa,JEE completed and published,LY,利比亚,ly.png
+Liechtenstein,43.5,43.1,22.9,34.6,31.1,56.9,87.9,Europe,EURO,<1m,High income,Europe and Central Asia,JEE completed and published,LI,列支敦士登,li.png
+Lithuania,55.0,43.5,81.5,33.9,34.4,72.1,67.8,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE completed and published,LT,立陶宛,lt.png
+Luxembourg,43.8,31,41.7,27.3,37.9,52.8,84.7,Europe,EURO,<1m,High income,Europe and Central Asia,JEE not yet published/completed,LU,卢森堡,lu.png
+Madagascar,40.1,30.1,41.9,57.8,19.2,55.4,32.4,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,MG,马达加斯加,mg.png
+Malawi,28.0,25.5,23.3,20.7,15.3,50.7,37.6,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE not yet published/completed,MW,马拉维,mw.png
+Malaysia,62.2,51.4,73.2,61.3,57.1,58.5,72.0,Southeastern Asia,WPRO ,10-50m,Upper middle income,East Asia and Pacific,JEE not yet published/completed,MY,马来西亚,my.png
+Maldives,33.8,21.8,25.5,40.2,18.1,45.5,58.3,Southern Asia ,SEARO,<1m,Upper middle income,South Asia,JEE completed and published,MV,马尔代夫,mv.png
+Mali,29.0,23.4,25.5,29.5,13.0,53.2,32.1,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,ML,马里,ml.png
+Malta,37.3,35,32.9,22.4,23.6,49.1,72.3,Europe,EURO,<1m,High income,Middle East and North Africa,JEE not yet published/completed,MT,马耳他,mt.png
+Marshall Islands,18.2,7,4.4,18.1,7.2,30.7,52.3,Oceania,WPRO ,<1m,Upper middle income,East Asia and Pacific,JEE not yet published/completed,MH,马绍尔群岛,mh.png
+Mauritania,27.5,9.9,39.5,24.2,17.0,36.3,39.5,Africa,AFRO,1-10m ,Lower middle income,Sub-Saharan Africa,JEE completed and published,MR,毛里塔尼亚,mr.png
+Mauritius,34.9,27.3,42.3,34.9,15.1,29.1,66.2,Africa,AFRO,1-10m ,Upper middle income,Sub-Saharan Africa,JEE not yet published/completed,MU,毛里求斯,mu.png
+Mexico,57.6,45.5,71.2,50.8,46.9,73.9,57.0,Latin America and the Caribbea,AMRO,100m+ ,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,MX,墨西哥,mx.png
+Micronesia,32.8,21,14.2,56.9,18.8,36.3,53.1,Oceania,WPRO ,<1m,Lower middle income,East Asia and Pacific,JEE completed and published,FM,密克罗尼西亚联邦,fm.png
+Moldova,42.9,46.5,42.9,31.1,36.4,56.7,47.1,Europe,EURO,1-10m ,Lower middle income,Europe and Central Asia,JEE completed and published,MD,摩尔多瓦,md.png
+Monaco,32.7,11.1,23.3,26,31,35.3,83.1,Europe,EURO,<1m,High income,Europe and Central Asia,JEE not yet published/completed,MC,摩纳哥,mc.png
+Mongolia,49.5,37.6,77.3,37.8,30.8,52.6,60.8,Eastern Asia,WPRO ,1-10m ,Lower middle income,East Asia and Pacific,JEE completed and published,MN,蒙古,mn.png
+Montenegro,43.7,36.5,55.4,32.1,29.5,53.5,58.8,Europe,EURO,<1m,Upper middle income,Europe and Central Asia,JEE not yet published/completed,ME,黑山,me.png
+Morocco,43.7,34.6,56.8,51.5,29.5,32.7,55.9,Africa,EMRO,10-50m,Lower middle income,Middle East and North Africa,JEE completed and published,MA,摩洛哥,ma.png
+Mozambique,28.1,26.5,29.3,18.2,17.0,43.8,38.4,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,MZ,莫桑比克,mz.png
+Myanmar,43.4,30.3,59.2,50.4,19.5,59.1,38.2,Southeastern Asia,SEARO,50-100m,Lower middle income,East Asia and Pacific,JEE completed and published,MM,缅甸,mm.png
+Namibia,35.6,32.0,46.0,30.9,10.1,44.2,54.7,Africa,AFRO,1-10m ,Upper middle income,Sub-Saharan Africa,JEE completed and published,NA,纳米比亚,na.png
+Nauru,20.8,9.1,4.4,25.9,12,32,50.6,Oceania,WPRO ,<1m,Upper middle income,East Asia and Pacific,JEE not yet published/completed,NR,瑙鲁,nr.png
+Nepal,35.1,43.7,22.0,41.9,28.1,33.5,44.7,Southern Asia ,SEARO,10-50m,Low income,South Asia,JEE not yet published/completed,NP,尼泊尔,np.png
+Netherlands,75.6,73.7,86.0,79.1,70.2,61.1,81.7,Europe,EURO,10-50m,High income,Europe and Central Asia,JEE not yet published/completed,NL,荷兰,nl.png
+New Zealand,54.0,55.0,36.7,58.1,45.2,59.4,77.2,Oceania,WPRO ,1-10m ,High income,East Asia and Pacific,JEE not yet published/completed,NZ,新西兰,nz.png
+Nicaragua,43.1,41.7,39.9,39.2,45.9,51.8,41.0,Latin America and the Caribbea,AMRO,1-10m ,Lower middle income,Latin America & Carribean ,JEE not yet published/completed,NI,尼加拉瓜,ni.png
+Niger,32.2,32.5,44.4,20.1,21.9,45.5,28.5,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,NE,尼日尔,ne.png
+Nigeria,37.8,26.3,44.6,43.8,19.9,56.7,33.7,Africa,AFRO,100m+ ,Lower middle income,Sub-Saharan Africa,JEE completed and published,NG,尼日利亚,ng.png
+Niue,20.5,11,4.4,21.8,9.1,29.9,57.9,Oceania,WPRO ,<1m,Upper middle income,East Asia and Pacific,JEE not yet published/completed,NU,纽埃,nu.png
+North Korea,17.5,19,7,11.3,12.2,27.3,35.6,Eastern Asia,SEARO,10-50m,Low income,East Asia and Pacific,JEE not yet published/completed,KP,朝鲜,kp.png
+North Macedonia,39.1,37.0,41.7,33.1,25.4,44.8,57.7,Europe,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE not yet published/completed,MK,马其顿,mk.png
+Norway,64.6,68.2,58.6,58.2,58.5,64.4,87.1,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,NO,挪威,no.png
+Oman,43.1,35.3,41.1,41.6,25.4,56.0,65.7,Western Asia,EMRO,1-10m ,High income,Middle East and North Africa,JEE completed and published,OM,阿曼,om.png
+Pakistan,35.5,24.1,41.7,38.7,19.9,49.7,38.7,Southern Asia ,EMRO,100m+ ,Lower middle income,South Asia,JEE completed and published,PK,巴基斯坦,pk.png
+Palau,21.9,8.2,8.8,24.5,11.5,32,56.2,Oceania,WPRO ,<1m,High income,East Asia and Pacific,JEE not yet published/completed,PW,帕劳,pw.png
+Panama,43.7,40.5,44.6,46.4,35.1,35.3,63.8,Latin America and the Caribbea,AMRO,1-10m ,High income,Latin America & Carribean ,JEE not yet published/completed,PA,巴拿马,pa.png
+Papua New Guinea,27.8,10,31.8,34.8,11.6,41.4,38.7,Oceania,WPRO ,1-10m ,Lower middle income,East Asia and Pacific,JEE not yet published/completed,PG,巴布亚新几内亚,pg.png
+Paraguay,35.7,39.5,34.6,26.8,28.2,35.3,55.9,Latin America and the Caribbea,AMRO,1-10m ,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,PY,巴拉圭,py.png
+Peru,49.2,43.2,38.3,51.7,45.0,63.0,57.7,Latin America and the Caribbea,AMRO,10-50m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,PE,秘鲁,pe.png
+Philippines,47.6,38.5,63.6,43.8,38.2,49.8,50.3,Southeastern Asia,WPRO ,100m+ ,Lower middle income,East Asia and Pacific,JEE not yet published/completed,PH,菲律宾,ph.png
+Poland,55.4,50.9,61.7,47.5,48.9,58.9,67.9,Europe,EURO,10-50m,High income,Europe and Central Asia,JEE not yet published/completed,PL,波兰,pl.png
+Portugal,60.3,52.8,50.5,67.7,55.0,63.0,77.3,Europe,EURO,10-50m,High income,Europe and Central Asia,JEE not yet published/completed,PT,葡萄牙,pt.png
+Qatar,41.2,33.1,32.7,48.0,38.8,32.7,68.0,Western Asia,EMRO,1-10m ,High income,Middle East and North Africa,JEE completed and published,QA,卡塔尔,qa.png
+Romania,45.8,48.9,42.8,35.3,36.7,52.4,65.7,Europe,EURO,10-50m,Upper middle income,Europe and Central Asia,JEE not yet published/completed,RO,罗马尼亚,ro.png
+Russia,44.3,42.9,34.1,50.1,37.6,52.6,51.4,Europe,EURO,100m+ ,Upper middle income,Europe and Central Asia,JEE not yet published/completed,RU,俄罗斯,ru.png
+Rwanda,34.2,33.8,36.0,31.9,24.1,38.0,43.6,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,RW,卢旺达,rw.png
+Samoa,26.4,20.2,14.1,28.9,9.2,30.7,66.1,Oceania,WPRO ,<1m,Upper middle income,East Asia and Pacific,JEE not yet published/completed,WS,萨摩亚,ws.png
+San Marino,31.1,22.3,33.9,20.8,16.2,25,80.5,Europe,EURO,<1m,High income,Europe and Central Asia,JEE not yet published/completed,SM,圣马力诺,sm.png
+São Tomé and Príncipe,17.7,8.2,2.7,18.7,7.2,33.5,44.6,Africa,AFRO,<1m,Lower middle income,Sub-Saharan Africa,JEE not yet published/completed,ST,圣多美和普林西比,st.png
+Saudi Arabia,49.3,34.3,74.4,32.6,44.8,50.6,59.7,Western Asia,EMRO,10-50m,High income,Middle East and North Africa,JEE completed and published,SA,沙特阿拉伯,sa.png
+Senegal,37.9,25.4,35.1,45.4,18.5,57.0,48.2,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,SN,塞内加尔,sn.png
+Serbia,52.3,48.8,46.2,55.1,56.6,49.7,59.2,Europe,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE completed and published,RS,塞尔维亚,rs.png
+Seychelles,31.9,9.8,33.4,20.7,19.9,47.1,71.1,Africa,AFRO,<1m,High income,Sub-Saharan Africa,JEE completed and published,SC,塞舌尔,sc.png
+Sierra Leone,38.2,25.0,45.8,44.8,25.3,52.8,32.8,Africa,AFRO,1-10m ,Low income,Sub-Saharan Africa,JEE completed and published,SL,塞拉利昂,sl.png
+Singapore,58.7,56.2,64.5,64.6,41.4,47.3,80.9,Southeastern Asia,WPRO ,1-10m ,High income,East Asia and Pacific,JEE completed and published,SG,新加坡,sg.png
+Slovakia,47.9,53.5,46.0,34.1,37.9,52.8,71.5,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,SK,斯洛伐克,sk.png
+Slovenia,67.2,67.0,73.7,63.3,54.9,72.1,73.7,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE completed and published,SI,斯洛文尼亚,si.png
+Solomon Islands,20.7,8.4,8.7,18.7,12.4,40.1,44,Oceania,WPRO ,<1m,Lower middle income,East Asia and Pacific,JEE not yet published/completed,SB,所罗门群岛,sb.png
+Somalia,16.6,15.8,21.5,17.4,0.3,28.5,15.9,Africa,EMRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,SO,索马里,so.png
+South Africa,54.8,44.8,81.5,57.7,33.0,46.3,61.8,Africa,AFRO,50-100m,Upper middle income,Sub-Saharan Africa,JEE completed and published,ZA,南非,za.png
+South Korea,70.2,57.3,92.1,71.5,58.7,64.3,74.1,Eastern Asia,WPRO ,50-100m,High income,East Asia and Pacific,JEE completed and published,KR,韩国,kr.png
+South Sudan,21.7,22.6,15.9,24.3,13.6,32.6,22.1,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,SS,南苏丹,ss.png
+Spain,65.9,52.9,83.0,61.9,59.6,61.1,77.1,Europe,EURO,10-50m,High income,Europe and Central Asia,JEE not yet published/completed,ES,西班牙,es.png
+Sri Lanka,33.9,24.2,43.0,26.4,16.9,41.7,56.7,Southern Asia ,SEARO,10-50m,Lower middle income,South Asia,JEE completed and published,LK,斯里兰卡,lk.png
+St Kitts and Nevis,26.2,8.7,15,26.2,7.1,46.4,64.8,Latin America and the Caribbea,AMRO,<1m,High income,Latin America & Carribean ,JEE not yet published/completed,KN,圣基茨和尼维斯,kn.png
+St Lucia,35.3,22.8,30.3,42.4,6.3,54.7,62.1,Latin America and the Caribbea,AMRO,<1m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,LC,圣卢西亚,lc.png
+St Vincent and The Grenadines,33,20,20.6,29.2,19,58,61.7,Latin America and the Caribbea,AMRO,<1m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,VC,圣文森特和格林纳丁斯,vc.png
+Sudan,26.2,31.8,7.0,37.3,14.3,37.6,33.0,Africa,EMRO,10-50m,Lower middle income,Sub-Saharan Africa,JEE completed and published,SD,苏丹,sd.png
+Suriname,36.5,23.3,36.7,47.3,16.5,44.8,52.7,Latin America and the Caribbea,AMRO,<1m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,SR,苏里南,sr.png
+Sweden,72.1,81.1,86.0,62.8,49.3,71.3,84.5,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE not yet published/completed,SE,瑞典,se.png
+Switzerland,67.0,52.7,59.1,79.3,62.5,65.6,86.2,Europe,EURO,1-10m ,High income,Europe and Central Asia,JEE completed and published,CH,瑞士,ch.png
+Syria,19.9,18.4,2.7,23,24.4,26.1,29.6,Western Asia,EMRO,10-50m,Low income,Middle East and North Africa,JEE not yet published/completed,SY,叙利亚,sy.png
+Tajikistan,32.3,26.7,24.1,42.9,20.5,42.6,38.2,Central Asia,EURO,1-10m ,Low income,Europe and Central Asia,JEE not yet published/completed,TJ,塔吉克斯坦,tj.png
+Tanzania,36.4,33.5,42.0,36.8,8.2,55.4,44.7,Africa,AFRO,50-100m,Low income,Sub-Saharan Africa,JEE completed and published,TZ,坦桑尼亚,tz.png
+Thailand,73.2,75.7,81.0,78.6,70.5,70.9,56.4,Southeastern Asia,SEARO,50-100m,Upper middle income,East Asia and Pacific,JEE completed and published,TH,泰国,th.png
+Timor-Leste,26,18.2,25.7,30.2,9.7,33.9,41.5,Southeastern Asia,SEARO,1-10m ,Lower middle income,East Asia and Pacific,JEE not yet published/completed,TL,东帝汶,tl.png
+Togo,32.5,23.7,46.8,30.4,10.0,46.3,37.6,Africa,AFRO,1-10m ,Low income,Sub-Saharan Africa,JEE completed and published,TG,多哥,tg.png
+Tonga,25.1,19.8,15,25.1,7.5,33.9,59,Oceania,WPRO ,<1m,Upper middle income,East Asia and Pacific,JEE not yet published/completed,TO,汤加,to.png
+Trinidad and Tobago,36.6,28.1,14.7,43.2,23.7,55.1,64.4,Latin America and the Caribbea,AMRO,1-10m ,High income,Latin America & Carribean ,JEE not yet published/completed,TT,特立尼达和多巴哥,tt.png
+Tunisia,33.7,31.7,26.3,39.1,24.0,31.0,55.7,Africa,EMRO,10-50m,Lower middle income,Middle East and North Africa,JEE completed and published,TN,突尼斯,tn.png
+Turkey,52.4,56.9,45.6,49.0,45.7,64.3,56.5,Western Asia,EURO,50-100m,Upper middle income,Europe and Central Asia,JEE not yet published/completed,TR,土耳其,tr.png
+Turkmenistan,31.8,31,38.6,26,14.4,39.3,45.1,Central Asia,EURO,1-10m ,Upper middle income,Europe and Central Asia,JEE completed and published,TM,土库曼,tm.png
+Tuvalu,21.6,13.1,8.7,19.6,12,28.6,58.7,Oceania,WPRO ,<1m,Upper middle income,East Asia and Pacific,JEE not yet published/completed,TV,吐瓦鲁,tv.png
+Uganda,44.3,42.7,50.3,56.5,11.6,65.4,35.5,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,UG,乌干达,ug.png
+Ukraine,38.0,38.1,36.5,34.8,23.0,55.1,43.3,Europe,EURO,10-50m,Lower middle income,Europe and Central Asia,JEE not yet published/completed,UA,乌克兰,ua.png
+United Arab Emirates,46.7,49.3,31.6,49.7,22.9,63.4,72.4,Western Asia,EMRO,1-10m ,High income,Middle East and North Africa,JEE completed and published,AE,阿拉伯联合酋长国,ae.png
+United Kingdom,77.9,68.3,87.3,91.9,59.8,81.2,74.7,Europe,EURO,50-100m,High income,Europe and Central Asia,JEE not yet published/completed,GB,英国,gb.png
+United States,83.5,83.1,98.2,79.7,73.8,85.3,78.2,Northern America,AMRO,100m+ ,High income,North America,JEE completed and published,US,美国,us.png
+Uruguay,41.3,44.0,33.5,41.3,24.1,39.3,74.8,Latin America and the Caribbea,AMRO,1-10m ,High income,Latin America & Carribean ,JEE not yet published/completed,UY,乌拉圭,uy.png
+Uzbekistan,34.3,42.6,19.4,27.8,16,60.5,47.8,Central Asia,EURO,10-50m,Lower middle income,Europe and Central Asia,JEE not yet published/completed,UZ,乌兹别克斯坦,uz.png
+Vanuatu,26.1,24.5,15,24.8,6.6,38,57.4,Oceania,WPRO ,<1m,Lower middle income,East Asia and Pacific,JEE not yet published/completed,VU,瓦努阿图,vu.png
+Venezuela,23,23.5,8.7,19.7,12.9,42.2,38.2,Latin America and the Caribbea,AMRO,10-50m,Upper middle income,Latin America & Carribean ,JEE not yet published/completed,VE,委内瑞拉,ve.png
+Vietnam,49.1,49.5,57.4,43.0,28.3,64.6,53.4,Southeastern Asia,WPRO ,50-100m,Lower middle income,East Asia and Pacific,JEE completed and published,VN,越南,vn.png
+Yemen,18.5,15.1,9.0,19.0,7.6,40.3,23.5,Western Asia,EMRO,10-50m,Low income,Middle East and North Africa,JEE not yet published/completed,YE,也门,ye.png
+Zambia,28.7,24.5,21.9,28.6,20.3,38.0,44.2,Africa,AFRO,10-50m,Lower middle income,Sub-Saharan Africa,JEE completed and published,ZM,赞比亚,zm.png
+Zimbabwe,38.2,31.4,65.6,30.1,14.7,45.9,39.2,Africa,AFRO,10-50m,Low income,Sub-Saharan Africa,JEE completed and published,ZW,津巴布韦,zw.png
