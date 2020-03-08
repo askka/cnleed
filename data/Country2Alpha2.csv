@@ -1,0 +1,610 @@
+COUNTRY,ALPHA2
+Andorra,AD
+Andorran,AD
+United Arab Emirates,AE
+Emirati,AE
+Emirian,AE
+ Emiri,AE
+Afghanistan,AF
+Afghan,AF
+Antigua and Barbuda,AG
+Antigua & Barbuda,AG
+Antiguan or Barbudan,AG
+Antigua and Barb.,AG
+Anguilla,AI
+Anguillan,AI
+Albania,AL
+Albanian,AL
+Armenia,AM
+Armenian,AM
+Angola,AO
+Angolan,AO
+Antarctica,AQ
+Antarctic,AQ
+Argentina,AR
+Argentine,AR
+American Samoa,AS
+American Samoan,AS
+Austria,AT
+Austrian,AT
+Australia,AU
+Australian,AU
+Aruba,AW
+Aruban,AW
+Åland Islands,AX
+åland islands,AX
+Aland,AX
+Åland Is.,AX
+?land Islands,AX
+Azerbaijan,AZ
+Azerbaijani,AZ
+ Azeri,AZ
+Bosnia and Herzegovina,BA
+Bosnia and Herz.,BA
+Bosnian and Herzegovinian,BA
+Bosnia & Herzegovina,BA
+Barbados,BB
+Barbadian,BB
+Bangladesh,BD
+Bangladeshi,BD
+Belgium,BE
+Belgian,BE
+Burkina Faso,BF
+Burkina,BF
+Burkinabé,BF
+Bulgaria,BG
+Bulgarian,BG
+Bahrain,BH
+Bahraini,BH
+Burundi,BI
+Burundian,BI
+Benin,BJ
+"Beninese, Beninois",BJ
+Saint Barthélemy,BL
+Barthélemois,BL
+Bermuda,BM
+"Bermudian, Bermudan",BM
+Brunei Darussalam,BN
+Brunei,BN
+Bruneian,BN
+Bolivia (Plurinational State of),BO
+Bolivia,BO
+Bolivian,BO
+"Bonaire, Sint Eustatius and Saba",BQ
+Caribbean Netherlands,BQ
+Bonaire,BQ
+ Sint Eustatius and Saba,BQ
+Brazil,BR
+Brazilian,BR
+Bahamas,BS
+The Bahamas,BS
+Bahamian,BS
+Bhutan,BT
+Bhutanese,BT
+Bouvet Island,BV
+Botswana,BW
+"Motswana, Botswanan",BW
+Belarus,BY
+Belarusian,BY
+Belize,BZ
+Belizean,BZ
+Canada,CA
+Canadian,CA
+Cocos (Keeling) Islands,CC
+Cocos Island,CC
+Congo (Democratic Republic),CD
+Democratic Republic of the Congo,CD
+Congolese,CG
+Dem. Rep. Congo,CD
+Congo-Kinshasa,CD
+Central African Republic,CF
+Central African,CF
+Central African Rep.,CF
+Congo (Republic of the),CG
+Republic of the Congo,CG
+Congo (Brazzaville),CG
+Congo,CG
+Congo-Brazzaville,CG
+Switzerland,CH
+Swiss,CH
+Côte d'Ivoire,CI
+Ivorian,CI
+C?te d'Ivoire,CI
+Cook Islands,CK
+Cook Island,CK
+Chile,CL
+Chilean,CL
+Cameroon,CM
+Cameroonian,CM
+China,CN
+Chinese,CN
+Colombia,CO
+Colombian,CO
+Costa Rica,CR
+Costa Rican,CR
+Cuba,CU
+Cuban,CU
+Cabo Verde,CV
+Cape Verde,CV
+Cabo Verdean,CV
+Curaçao,CW
+Curaçaoan,CW
+Cura?ao,CW
+Cura?aoan,CW
+Christmas Island,CX
+Cyprus,CY
+Cypriot,CY
+Czech Republic,CZ
+Czech,CZ
+Czech Rep.,CZ
+Czechia,CZ
+Germany,DE
+German,DE
+Djibouti,DJ
+Djiboutian,DJ
+Denmark,DK
+Danish,DK
+Dominica,DM
+Dominican,DO
+Dominican Republic,DO
+Dominican Rep.,DO
+Algeria,DZ
+Algerian,DZ
+Ecuador,EC
+Ecuadorian,EC
+Estonia,EE
+Estonian,EE
+Egypt,EG
+Egyptian,EG
+Western Sahara,EH
+W. Sahara,EH
+Sahrawi,EH
+ Sahrawian,EH
+ Sahraouian,EH
+Eritrea,ER
+Eritrean,ER
+Spain,ES
+Spanish,ES
+Ethiopia,ET
+Ethiopian,ET
+Finland,FI
+Finnish,FI
+Fiji,FJ
+Fijian,FJ
+Falkland Islands (Malvinas),FK
+Falkland Islands,FK
+Falkland Is.,FK
+Micronesia,FM
+Federated States of Micronesia,FM
+Micronesia (Federated States of),FM
+Micronesian,FM
+Faroe Islands,FO
+Faroese,FO
+Faeroe Islands,FO
+Faroe Is.,FO
+Faeroe Is.,FO
+France,FR
+French,FR
+Gabon,GA
+Gabonese,GA
+United Kingdom of Great Britain and Northern Ireland,GB
+Great Britain (United Kingdom; England),GB
+United Kingdom,GB
+British,GB
+ UK,GB
+Grenada,GD
+Grenadian,GD
+Georgia,GE
+Georgian,GE
+French Guiana,GF
+French Guianese,GF
+Guernsey,GG
+Channel Island,JE
+Ghana,GH
+Ghanaian,GH
+Gibraltar,GI
+Greenland,GL
+Greenlandic,GL
+Gambia,GM
+Gambian,GM
+Guinea,GN
+Guinean,GN
+Guadeloupe,GP
+Equatorial Guinea,GQ
+Eq. Guinea,GQ
+ Equatoguinean,GQ
+Greece,GR
+"Greek, Hellenic",GR
+South Georgia and the South Sandwich Islands,GS
+South Georgia or South Sandwich Islands,GS
+S. Geo. and S. Sandw. Is.,GS
+Guatemala,GT
+Guatemalan,GT
+Guam,GU
+"Guamanian, Guambat",GU
+Guinea-Bissau,GW
+Bissau-Guinean,GW
+Guyana,GY
+Guyanese,GY
+Hong Kong,HK
+"Hong Kong, Hong Kongese",HK
+Heard Island and McDonald Islands,HM
+Heard Island or McDonald Islands,HM
+Heard I. and McDonald Is.,HM
+Honduras,HN
+Honduran,HN
+Croatia,HR
+Croatian,HR
+Haiti,HT
+Haitian,HT
+Hungary,HU
+"Hungarian, Magyar",HU
+Indonesia,ID
+Indonesian,ID
+Ireland,IE
+Irish,IE
+Israel,IL
+Israeli,IL
+Isle of Man,IM
+Manx,IM
+India,IN
+Indian,IN
+British Indian Ocean Territory,IO
+Br. Indian Ocean Ter.,IO
+BIOT,IO
+Iraq,IQ
+Iraqi,IQ
+Iran,IR
+"Iranian, Persian",IR
+Iran (Islamic Republic of),IR
+Iceland,IS
+Icelandic,IS
+Italy,IT
+Italian,IT
+Jersey,JE
+Jamaica,JM
+Jamaican,JM
+Jordan,JO
+Jordanian,JO
+Japan,JP
+Japanese,JP
+Kenya,KE
+Kenyan,KE
+Kyrgyzstan,KG
+Kyrgyz Republic,KG
+Kyrgyzstani,KG
+ Kyrgyz,KG
+ Kirgiz,KG
+ Kirghiz,KG
+Cambodia,KH
+Cambodian,KH
+Kiribati,KI
+I-Kiribati,KI
+Comoros,KM
+The Comoros,KM
+"Comoran, Comorian",KM
+Saint Kitts and Nevis,KN
+St. Kitts & Nevis,KN
+St Kitts and Nevis,KN
+Kittitian or Nevisian,KN
+Korea (Democratic People's Republic of),KP
+North Korea,KP
+Dem. Rep. Korea,KP
+North Korean,KP
+Korea (Republic of),KR
+South Korea,KR
+South Korean,KR
+Korea,KR
+ Republic of,MD
+Kuwait,KW
+Kuwaiti,KW
+Cayman Islands,KY
+Caymanian,KY
+Cayman Is.,KY
+Kazakhstan,KZ
+"Kazakhstani, Kazakh",KZ
+Lao People's Democratic Republic,LA
+Laos,LA
+Lao PDR,LA
+Lebanon,LB
+Lebanese,LB
+Saint Lucia,LC
+St. Lucia,LC
+St Lucia,LC
+St. Lucian,LC
+Saint Lucian,LC
+Liechtenstein,LI
+Sri Lanka,LK
+Sri Lankan,LK
+Liberia,LR
+Liberian,LR
+Lesotho,LS
+Basotho,LS
+Lithuania,LT
+Lithuanian,LT
+Luxembourg,LU
+"Luxembourg, Luxembourgish",LU
+Latvia,LV
+Latvian,LV
+Libya,LY
+Libyan,LY
+Morocco,MA
+Moroccan,MA
+Monaco,MC
+"Monégasque, Monacan",MC
+Moldova (Republic of),MD
+Moldova,MD
+Moldovan,MD
+Montenegro,ME
+Montenegrin,ME
+Saint Martin (French part),MF
+Saint Martin (France),MF
+Saint-Martinoise,MF
+Madagascar,MG
+Malagasy,MG
+Marshall Islands,MH
+Marshall islands,MH
+Marshallese,MH
+Macedonia (the former Yugoslav Republic of),MK
+Republic of Macedonia (FYROM),MK
+North Macedonia,MK
+North Macedonian,MK
+Macedonia,MK
+Mali,ML
+"Malian, Malinese",ML
+Myanmar,MM
+Myanmar (Burma),MM
+Burmese,MM
+Mongolia,MN
+Mongolian,MN
+Macao,MO
+"Macanese, Chinese",MO
+Northern Mariana Islands,MP
+Northern Marianan,MP
+N. Mariana Is.,MP
+Martinique,MQ
+"Martiniquais, Martinican",MQ
+Mauritania,MR
+Mauritanian,MR
+Montserrat,MS
+Montserratian,MS
+Malta,MT
+Maltese,MT
+Mauritius,MU
+Mauritian,MU
+Maldives,MV
+Maldivian,MV
+Malawi,MW
+Malawian,MW
+Mexico,MX
+Mexican,MX
+Malaysia,MY
+Malaysian,MY
+Mozambique,MZ
+Mozambican,MZ
+Namibia,NA
+Namibian,NA
+New Caledonia,NC
+New Caledonian,NC
+Niger,NE
+Nigerien,NE
+Norfolk Island,NF
+Nigeria,NG
+Nigerian,NG
+Nicaragua,NI
+Nicaraguan,NI
+Netherlands,NL
+"Dutch, Netherlandic",NL
+Norway,NO
+Norwegian,NO
+Nepal,NP
+"Nepali, Nepalese",NP
+Nauru,NR
+Nauruan,NR
+Niue,NU
+Niuean,NU
+New Zealand,NZ
+"New Zealand, NZ",NZ
+Oman,OM
+Omani,OM
+Panama,PA
+Panamanian,PA
+Peru,PE
+Peruvian,PE
+French Polynesia,PF
+French polynesia,PF
+French Polynesian,PF
+Fr. Polynesian,PF
+Fr. Polynesia,PF
+Papua New Guinea,PG
+"Papua New Guinean, Papuan",PG
+Philippines,PH
+The Philippines,PH
+"Philippine, Filipino",PH
+Pakistan,PK
+Pakistani,PK
+Poland,PL
+Polish,PL
+Saint Pierre and Miquelon,PM
+Saint-Pierre and Miquelon,PM
+Saint-Pierrais or Miquelonnais,PM
+St. Pierre and Miquelon,PM
+Pitcairn,PN
+Pitcairn Islands,PN
+Pitcairn Island,PN
+Puerto Rico,PR
+Puerto Rican,PR
+"Palestine, State of",PS
+Palestinian territories,PS
+Palestinian,PS
+Palestine,PS
+ State of,PS
+Portugal,PT
+Portuguese,PT
+Palau,PW
+Palauan,PW
+Paraguay,PY
+Paraguayan,PY
+Qatar,QA
+Qatari,QA
+Réunion,RE
+"Réunionese, Réunionnais",RE
+Romania,RO
+Romanian,RO
+Serbia,RS
+Serbian,RS
+Russian Federation,RU
+Russia,RU
+Russian,RU
+Rwanda,RW
+Rwandan,RW
+Saudi Arabia,SA
+"Saudi, Saudi Arabian",SA
+Solomon Islands,SB
+Solomon Island,SB
+Solomon Is.,SB
+Seychelles,SC
+Seychellois,SC
+Sudan,SD
+Sudanese,SD
+Sweden,SE
+Swedish,SE
+Singapore,SG
+Singaporean,SG
+"Saint Helena, Ascension and Tristan da Cunha",SH
+St. Helena & Dependencies,SH
+Saint Helenian,SH
+Saint Helena,SH
+ Ascension and Tristan da Cunha,SH
+Slovenia,SI
+"Slovenian, Slovene",SI
+Svalbard and Jan Mayen,SJ
+Template:Country data SJM Svalbard,SJ
+Svalbard,SJ
+Slovakia,SK
+Slovak,SK
+Sierra Leone,SL
+Sierra Leonean,SL
+San Marino,SM
+Sammarinese,SM
+Senegal,SN
+Senegalese,SN
+Somalia,SO
+"Somali, Somalian",SO
+Suriname,SR
+Surinamese,SR
+South Sudan,SS
+South Sudanese,SS
+S. Sudanese,SS
+S. Sudan,SS
+São Tomé and Príncipe,ST
+Sao Tome & Principe,ST
+Sao Tome and Principe,ST
+S?o Tomé and Principe,ST
+São Toméan,ST
+El Salvador,SV
+Salvadoran,SV
+Sint Maarten (Dutch part),SX
+Sint Maarten,SX
+Syrian Arab Republic,SY
+Syria,SY
+Syrian,SY
+Swaziland,SZ
+eSwatini (Swaziland),SZ
+Swazi,SZ
+Eswatini,SZ
+Turks and Caicos Islands,TC
+Turks & Caicos Islands,TC
+Turks and Caicos Island,TC
+Turks and Caicos Is.,TC
+Chad,TD
+Chadian,TD
+French Southern Territories,TF
+Fr. S. Antarctic Lands,TF
+French Southern Antarctic Lands,TF
+Togo,TG
+Togolese,TG
+Thailand,TH
+Thai,TH
+Tajikistan,TJ
+Tajikistani,TJ
+Tokelau,TK
+Tokelauan,TK
+Timor-Leste,TL
+Timor-Leste (East Timor),TL
+Timorese,TL
+Turkmenistan,TM
+Turkmen,TM
+Tunisia,TN
+Tunisian,TN
+Tonga,TO
+Tongan,TO
+Turkey,TR
+Turkish,TR
+Trinidad and Tobago,TT
+Trinidad & Tobago,TT
+Trinidadian or Tobagonian,TT
+Tuvalu,TV
+Tuvaluan,TV
+"Taiwan, Province of China",TW
+Taiwan,TW
+"Chinese, Taiwanese",TW
+ Province of China,TW
+"Tanzania, United Republic of",TZ
+Tanzania,TZ
+Tanzanian,TZ
+ United Republic of,TZ
+Ukraine,UA
+Ukrainian,UA
+Uganda,UG
+Ugandan,UG
+United States Minor Outlying Islands,UM
+American,UM
+United States of America,US
+United States of America (USA),US
+United States,US
+Uruguay,UY
+Uruguayan,UY
+Uzbekistan,UZ
+"Uzbekistani, Uzbek",UZ
+Vatican City State,VA
+Vatican City (The Holy See),VA
+Vatican,VA
+Holy See,VA
+Saint Vincent and The Grenadines,VC
+St. Vincent & the Grenadines,VC
+St. Vin. and Gren.,VC
+St Vincent and The Grenadines,VC
+St Vincent and the Grenadines,VC
+Saint Vincentian,VC
+ Vincentian,VC
+Venezuela (Bolivarian Republic of),VE
+Venezuela,VE
+Venezuelan,VE
+Virgin Islands (British),VG
+British Virgin Islands,VG
+British Virgin Island,VG
+Br. Virgin Is.,VG
+Virgin Islands (U.S.),VI
+United States Virgin Islands,VI
+U.S. Virgin Island,VI
+U.S. Virgin Is.,VI
+Vietnam,VN
+Vietnamese,VN
+Viet Nam,VN
+Vanuatu,VU
+"Ni-Vanuatu, Vanuatuan",VU
+Wallis and Futuna,WF
+"Wallis and Futuna, Wallisian or Futunan",WF
+Samoa,WS
+Samoan,WS
+Yemen,YE
+Yemeni,YE
+Mayotte,YT
+Mahoran,YT
+South Africa,ZA
+South African,ZA
+Zambia,ZM
+Zambian,ZM
+Zimbabwe,ZW
+Zimbabwean,ZW
